@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Welcome to the brave new world*
+_What kind of dinasor do you like?_
+**This is all within imagination*
+__Just get started__
+_You **can** combine them_
